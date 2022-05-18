@@ -1,0 +1,36 @@
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#f1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#f2 {
+    font-family: Helvetica, Arial, sans-serif;
+}
+#f3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#f4 {
+    font-family: 'Cormorant Garamond', serif;;
+}
+#f5 {
+   font-family: 'Times New Roman', Times, serif; 
+}
+#f6 {
+    font-family: Times,'Times New Roman', serif;
+}
+#f7 {
+    font-family: Courier,'Courier New', monospace;
+}
+#f8 {
+    font-family: 'Courier New', Courier, monospace;
+}
+#f9 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.code {
+    font-family: 'Courier New', Courier, monospace;
+}
